@@ -1,0 +1,28 @@
+# Gradle & Build Outputs
+.gradle/
+.kotlin/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# IDE & OS Files
+*.iml
+/.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local Machine & Signing Secrets (NEVER COMMIT)
+/local.properties
+local.properties
+keystore.properties
+*.keystore
+*.jks
+*.p12
+*.pem
+.env
+.env.*

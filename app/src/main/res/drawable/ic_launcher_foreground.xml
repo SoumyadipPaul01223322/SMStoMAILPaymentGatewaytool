@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crisp envelope + ledger mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,36C28,33.79 29.79,32 32,32H76C78.21,32 80,33.79 80,36V72C80,74.21 78.21,76 76,76H32C29.79,76 28,74.21 28,72V36ZM34,40.4V70H74V40.4L54,55.2L34,40.4ZM37.6,38L54,50.1L70.4,38H37.6Z" />
+    <path
+        android:fillColor="#F4B400"
+        android:pathData="M67,24L79,24L73,33Z" />
+</vector>
